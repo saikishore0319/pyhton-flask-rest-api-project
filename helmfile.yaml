@@ -1,0 +1,5 @@
+---
+releases:
+  - name: python-flask-app
+    chart: ./k8s/python-flask-rest-api-project
+    installed: false
